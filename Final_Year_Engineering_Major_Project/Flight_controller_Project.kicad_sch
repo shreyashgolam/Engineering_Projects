@@ -1,0 +1,247 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e87ec907-ed7b-4c8a-9b8c-d4cc9c76230a")
+	(paper "A4")
+	(title_block
+		(title "Power")
+		(date "2025-02-16")
+		(rev "0.1")
+		(company "Shreyash Golam")
+	)
+	(lib_symbols)
+	(sheet
+		(at 39.37 45.72)
+		(size 49.53 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00005db5c096")
+		(property "Sheetname" "FlightControlComputer"
+			(at 39.37 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FCC.kicad_sch"
+			(at 39.37 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Hades"
+				(path "/e87ec907-ed7b-4c8a-9b8c-d4cc9c76230a"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 203.2 45.72)
+		(size 48.26 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00005db6d0d5")
+		(property "Sheetname" "NAVCPeripherals"
+			(at 203.2 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "NAVCPeripherals.kicad_sch"
+			(at 203.2 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Hades"
+				(path "/e87ec907-ed7b-4c8a-9b8c-d4cc9c76230a"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 99.06)
+		(size 49.53 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00005dbb0b6b")
+		(property "Sheetname" "Connections"
+			(at 120.65 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connections.kicad_sch"
+			(at 120.65 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Hades"
+				(path "/e87ec907-ed7b-4c8a-9b8c-d4cc9c76230a"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 39.37 99.06)
+		(size 48.26 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00005dd7f344")
+		(property "Sheetname" "FCCPeripherals"
+			(at 39.37 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FCCPeripherals.kicad_sch"
+			(at 39.37 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Hades"
+				(path "/e87ec907-ed7b-4c8a-9b8c-d4cc9c76230a"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 45.72)
+		(size 49.53 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00005de3da35")
+		(property "Sheetname" "NavigationComputer"
+			(at 120.65 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "NAVC.kicad_sch"
+			(at 120.65 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Hades"
+				(path "/e87ec907-ed7b-4c8a-9b8c-d4cc9c76230a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 203.2 99.06)
+		(size 46.99 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ef574dde-fac0-4739-bc33-e1193acdc197")
+		(property "Sheetname" "Power"
+			(at 203.2 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 203.2 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Hades"
+				(path "/e87ec907-ed7b-4c8a-9b8c-d4cc9c76230a"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
