@@ -20,10 +20,10 @@ The PCB is designed as a standalone development board with:
   - Additional breakout headers for extended functionality
 - **PCB Design**:
   - **Schematic Files**:
+    - 28Pins_Project_V1I1 Project.SchDoc
     - [01] - COVER PAGE.SchDoc
     - [02] - BLOCK DIAGRAM.SchDoc
     - [03] - 28PIN_SCHEMATIC.SchDoc
-    - 28Pins_Project_V1I1 Project.SchDoc
     - [04] - REVISION HISTORY.SchDoc
   - **PCB Layout File**:
     - 28pin_PCB.PcbDoc
