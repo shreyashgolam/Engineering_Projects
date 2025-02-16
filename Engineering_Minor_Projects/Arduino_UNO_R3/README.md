@@ -28,8 +28,8 @@ The PCB is designed as a standalone development board with:
   - **PCB Layout File**:
     - 28pin_PCB.PcbDoc
   - **Manufacturing Files**:
-    - NC Drill RoundHoles: 28pin_PCB-RoundHoles.TXT
-    - NC Drill SlotHoles: 28pin_PCB-SlotHoles.TXT
+    - NC Drill RoundHoles: 28pin_PCB-RoundHoles.txt
+    - NC Drill SlotHoles: 28pin_PCB-SlotHoles.txt
 
 ## Workflow
 1. **Schematic Design** – Develop the circuit using **Altium Designer**.
