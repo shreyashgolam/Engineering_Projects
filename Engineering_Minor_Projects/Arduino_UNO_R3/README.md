@@ -51,5 +51,5 @@ The PCB is designed as a standalone development board with:
 - Add **power management optimizations** for battery-powered applications.
 - Develop a **shield ecosystem** for additional functionality.
 
-This project provides a deep understanding of **PCB design, embedded hardware, and prototyping**, making it ideal for electronics enthusiasts, students, and engineers. 🚀
+This project provides a deep understanding of **PCB design, embedded hardware, and prototyping**.
 
